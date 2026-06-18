@@ -5,21 +5,21 @@ Interactive Tableau dashboard designed to analyze sales, profitability, customer
 This project presents a comprehensive retail analytics dashboard developed in Tableau to monitor key business KPIs, identify sales trends, evaluate profitability, and uncover actionable insights across products, customers, and regions. The dashboard enables stakeholders to make informed strategic decisions through interactive visualizations.
 
 # Tech Stack
-Tableau Desktop
-Data Visualization
-Business Intelligence (BI)
-Calculated Fields
-Parameters & Filters
-KPI Dashboard Design
-Data Storytelling
+Tableau Desktop <br>
+Data Visualization <br>
+Business Intelligence (BI) <br>
+Calculated Fields <br>
+Parameters & Filters <br>
+KPI Dashboard Design <br>
+Data Storytelling <br>
 
 # Data Source
-Sample Retail Sales Dataset (Superstore Dataset)
+Sample Retail Sales Dataset (Superstore Dataset) <br>
 
-The dataset includes:
-Orders of many years
-Managers data
-Returns data
+The dataset includes: <br>
+Orders of many years <br>
+Managers data <br>
+Returns data <br>
 
 # Features & Highlights
 ✔ Interactive Sales & Profit Analysis
@@ -42,4 +42,4 @@ Improved visibility into business KPIs through centralized reporting.
 Supported data-driven decision-making using actionable insights.
 
 # Visual screenshot of Dashboard
-<img width="1916" height="879" alt="Screenshot 2026-04-01 233510" src="https://github.com/user-attachments/assets/d0305b5d-6f08-4706-914d-0fe3eeeafc06" />
+<img width="1918" height="883" alt="Screenshot 2026-06-18 163200" src="https://github.com/user-attachments/assets/4ac8730c-ebfd-4a82-9377-c830286c75eb" />
